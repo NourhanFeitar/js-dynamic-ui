@@ -1,0 +1,28 @@
+#table
+{
+    border:black;
+    border-width: 2pt;
+    font-size: large;
+    font-weight: bold;
+    border-style: double;
+    border-collapse: collapse;
+
+}
+
+th{
+    border-style: double;
+    background-color: cadetblue;
+}
+tr{
+    border-width: 1pt;
+    border-style: dashed;
+    background-color: antiquewhite;
+}
+
+th,td{
+    border-width: 1pt;
+    border-style: dashed;
+    border-color: cadetblue;
+    
+}
+
